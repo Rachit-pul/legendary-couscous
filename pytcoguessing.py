@@ -1,7 +1,6 @@
 import random
 num=random.randint(0,100)
 firstrun=0
-print(num)
 print('to guess a number between 0 and 100')
 print("If your guess is more than 10 away from my number, I'll tell you you're COLD")
 print("If your guess is within 10 of my number, I'll tell you you're WARM")
